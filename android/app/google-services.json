@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277246395822",
+    "project_id": "techwaretask-ba56c",
+    "storage_bucket": "techwaretask-ba56c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277246395822:android:fc9fec13bf9aa1234b343f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_task_techwarelab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF1KROSF6HA0wZIhNoSsNd-co4535OO8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
