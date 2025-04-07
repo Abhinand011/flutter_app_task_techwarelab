@@ -134,7 +134,7 @@ class ProductDetailScreen extends StatelessWidget {
 
             const SizedBox(height: 20),
 
-            // Call to Action Button
+
             SizedBox(
               width: double.infinity,
               height: 50,
